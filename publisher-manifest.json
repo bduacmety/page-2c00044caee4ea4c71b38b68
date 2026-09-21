@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fc903f65a35858620b04bce8",
+  "owner": "bduacmety",
+  "repo": "page-2c00044caee4ea4c71b38b68",
+  "title": "Pikap",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2c00044caee4ea4c71b38b68",
+      "a": "Pikap",
+      "b": "机场官网线路发布页",
+      "entity": "Pikap",
+      "brand": "Pikap",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1d4f12f28fa1cc4247a0716b1d6e71e8bc629409ff3ad67de60b3c35fe39490f",
+      "content": {
+        "primary_entity": "Pikap",
+        "keyword1": "Pikap",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，Pikap 为不同设备规模提供基础版、旗舰版与团队版三档订阅，月付从 ¥15 起，年付可享约两个月价格优惠。基础版适合手机与平板轻度使用，旗舰版覆盖电脑主机与多设备同时在线，团队版面向小型工作室与家庭共享。客户端按 Windows、macOS、Android、iOS 分别选择对应版本，导入订阅后即可查看节点延迟与流量使用情况。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HERO_INTRO": "Pikap 提供基础版、旗舰版与团队版三档订阅，覆盖从个人手机到多设备共享的使用场景。月付与年付均可选择，年付价格更划算。根据日常设备数量与流量需求匹配套餐，再按客户端文档完成订阅配置即可开始使用。",
+          "AI_VISUAL_TITLE": "Pikap 订阅方案一览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付约省两个月费用",
+          "AI_HIGHLIGHT_3": "多平台客户端分别适配",
+          "AI_FEATURES_TITLE": "选择 Pikap 的三个要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度判断适合自己的套餐档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线，覆盖手机、平板与电脑组合。",
+          "AI_FEATURE_TITLE_2": "流量按需匹配",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 与 1000GB 三档流量，日常浏览选基础版，多设备与流媒体使用可选旗舰版或团队版。",
+          "AI_FEATURE_TITLE_3": "年付更省周期",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，适合确定长期使用的用户一次配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS 各有对应客户端，按系统选择安装包并参照配置文档导入订阅。",
+          "AI_PLANS_TITLE": "Pikap 套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850。流量、设备数与线路类型随档位提升，可依据日常设备数量选择。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_GUIDE_INTRO": "先确认设备与预算，再对照套餐适配要求，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "确认使用规模",
+          "AI_STEP_TEXT_1": "统计需要同时在线的设备数量与每月大致流量，判断适合基础版、旗舰版还是团队版。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与线路类型，确认与日常使用场景匹配。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按对应系统的客户端文档安装并导入订阅信息，完成后即可查看节点与流量状态。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Pikap 套餐之间主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "三档套餐在月流量、同时在线设备数与线路类型上不同。基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并含 IPLC 线路；团队版每月 1000GB、20 台设备，适合共享场景。",
+          "AI_FAQ_QUESTION_2": "年付和月付哪个更划算？",
+          "AI_FAQ_ANSWER_2": "年付价格相当于月付约十个月的费用。基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用选年付更省，短期体验可先按月付。",
+          "AI_FAQ_QUESTION_3": "一台设备可以登录多个平台吗？",
+          "AI_FAQ_ANSWER_3": "套餐按同时在线的设备数量计算，不限制设备系统类型。同一订阅可以在 Windows、macOS、Android 或 iOS 客户端上使用，只要同时在线数不超过所选档位上限。",
+          "AI_FAQ_QUESTION_4": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "安装对应系统的客户端后，在订阅或配置页面粘贴订阅信息并保存，客户端会自动拉取节点列表。不同客户端操作入口略有差异，可参照对应配置文档。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备同时在线，并提供 VIP 节点与定制路由选项，适合小型工作室、家庭多设备共享或有固定办公网络需求的用户。",
+          "AI_CLOSING_TITLE": "选好档位再配置客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐后，按对应系统客户端文档完成订阅导入即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lostwi.cn",
+    "host": "lostwi.cn"
+  },
+  "file_hashes": {
+    "index.html": "9634b2e1b3ed36bbdc38fb8aaf2d671e05201f0a3c1acd09b431ab247c04fbb0",
+    "sitemap.xml": "9e517a24b0d029024c0961e7fcc2a1b53c5e8c8daca47a2545b69850698c91e3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6767ffa7d0fda82557eecafb084c662c32f4cd2fee036bbc84abd238471bdb6e",
+    "robots.txt": "bcf4f4473d5589b397e919e4f18123e4a697a5c717c900933796410b9a48f685",
+    "b0933b7e296801a81a05d7c03155bafb.txt": "497016320ec343fad0ed23e44c50372e0252852d2e9c4702db1e9e144867d830"
+  },
+  "revision": "b6dc3246a4bc34391532d413d15d9e4776809cb7b52ea912f5e4aeeaf344b54b"
+}
